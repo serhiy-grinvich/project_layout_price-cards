@@ -36,7 +36,7 @@ html {
   flex-direction: column;
   width: 380px;
   height: 770px;
-  margin-right: 18px;
+  margin-left: 18px;
   background-color: $color-mid-grey;
   padding-bottom: 40px;
   //   padding-top: 33px;
@@ -103,11 +103,13 @@ html {
 }
 .features {
   margin: 0;
+  width: 327px;
   text-align: center;
   font-weight: 400;
   font-size: 15px;
   line-height: 18px;
-  padding: 40px 0 40px 26px;
+  //   padding: 40px 0 40px 26px;
+  margin: 40px auto;
   &__list {
     margin: 0;
     padding: 0;

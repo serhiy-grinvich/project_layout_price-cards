@@ -39,7 +39,7 @@ html {
   flex-direction: column;
   width: 380px;
   height: 770px;
-  margin-right: 18px;
+  margin-left: 18px;
   background-color: rgb(51, 66, 71);
   padding-bottom: 40px;
 }
@@ -104,11 +104,12 @@ html {
 
 .features {
   margin: 0;
+  width: 327px;
   text-align: center;
   font-weight: 400;
   font-size: 15px;
   line-height: 18px;
-  padding: 40px 0 40px 26px;
+  margin: 40px auto;
 }
 .features__list {
   margin: 0;
