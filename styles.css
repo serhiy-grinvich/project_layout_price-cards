@@ -102,7 +102,7 @@ html {
   background-color: rgb(236, 99, 42);
 }
 
-.features {
+.options {
   margin: 0;
   width: 327px;
   text-align: center;
@@ -111,12 +111,12 @@ html {
   line-height: 18px;
   margin: 40px auto;
 }
-.features__list {
+.options__list {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-.features__list-item {
+.options__list-item {
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -125,22 +125,22 @@ html {
   font-size: 15px;
   line-height: 18px;
 }
-.features__list-item:nth-child(odd) {
-  background-color: rgba(42, 52, 56, 0.5);
+.options__list-item:nth-child(odd) {
+  background-color: rgb(42, 52, 56);
 }
-.features__checkmark {
+.options__checkmark {
   display: block;
   width: 15px;
   height: 13px;
   margin: 18px 22px 19px 22px;
 }
-.features__checkmark_green {
+.options__checkmark_green {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png);
 }
-.features__checkmark_blue {
+.options__checkmark_blue {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png);
 }
-.features__checkmark_orange {
+.options__checkmark_orange {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png);
 }
 
