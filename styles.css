@@ -132,12 +132,15 @@ html {
 
 .page {
   display: flex;
-  margin: auto;
-  justify-content: center;
-  align-items: center;
   width: 100vw;
   height: 100vh;
   background-color: #141b1c;
+}
+.page__content {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */
