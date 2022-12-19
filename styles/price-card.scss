@@ -8,6 +8,9 @@
   margin-right: 18px;
   background-color: $color-mid-grey;
 
+  &:last-child {
+    margin: 0;
+  }
   &__heading {
     width: 100%;
     margin: 33px auto;

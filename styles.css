@@ -8,6 +8,9 @@
   margin-right: 18px;
   background-color: rgb(51, 66, 71);
 }
+.price-card:last-child {
+  margin: 0;
+}
 .price-card__heading {
   width: 100%;
   margin: 33px auto;
