@@ -48,7 +48,7 @@
   background-color: rgb(236, 99, 42);
 }
 .price-card_descr {
-  margin: 40px auto;
+  margin: 40px 26px;
   text-align: center;
   font-size: 15px;
   font-weight: 400;
@@ -135,15 +135,12 @@ html {
 
 .page {
   display: flex;
-  width: 100vw;
-  height: 100vh;
-  background-color: #141b1c;
-}
-.page__content {
-  display: flex;
   margin: auto;
   justify-content: center;
   align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #141b1c;
 }
 
 /*# sourceMappingURL=styles.css.map */
