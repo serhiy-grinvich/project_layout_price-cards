@@ -71,7 +71,6 @@
   &__options-list-item:nth-child(odd) {
     background-color: $color-dark-grey;
   }
-
   &__checkmark {
     display: block;
     width: 15px;
@@ -87,7 +86,6 @@
       background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png);
     }
   }
-
   &__order-btn {
     width: 155px;
     height: 40px;
